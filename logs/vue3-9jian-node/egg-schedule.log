@@ -1,0 +1,6 @@
+2023-06-28 15:17:42,129 INFO 17144 [egg-schedule]: register schedule E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-06-28 15:17:42,129 INFO 17144 [egg-schedule]: register schedule E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-06-28 15:17:42,129 INFO 17144 [egg-schedule]: register schedule E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-06-28 15:17:42,330 INFO 15948 [Timer] E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47537673ms at 2023-06-29 04:30:00.003
+2023-06-28 15:17:42,330 INFO 15948 [Timer] E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31337670ms at 2023-06-29 00:00:00.000
+2023-06-28 15:17:42,330 INFO 15948 [Timer] E:\前端学习资料\九剑云项目\9jian-cloud-node\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31338670ms at 2023-06-29 00:00:01.000

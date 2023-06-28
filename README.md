@@ -1,2 +1,7 @@
-# cloud-vue-node
-九剑云项目 服务器
+# vue3-9jian-node
+
+1.安装依赖
+npm i
+
+2.启动
+npm run dev
